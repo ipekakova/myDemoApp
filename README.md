@@ -5,3 +5,5 @@ ikinci parametre : int index
 
 Parametre olarak verilen arrayList'inin içinde, ikinci parametre olarak verilen indexteki elemana gider ve üçüncü parametredeki stringle aynıysa true return eder.
 Eğer farklı bir stringse veya liste null ise false return eder. 
+
+[![Build Status](https://travis-ci.org/ipekakova/myDemoApp.svg?branch=master)](https://travis-ci.org/ipekakova/myDemoApp)
