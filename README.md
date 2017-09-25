@@ -8,4 +8,4 @@ Eğer farklı bir stringse veya liste null ise false return eder.
 
 [![Build Status](https://travis-ci.org/ipekakova/myDemoApp.svg?branch=master)](https://travis-ci.org/ipekakova/myDemoApp)
 
-https://fierce-temple-35976.herokuapp.com/compute
+Demo site: https://fierce-temple-35976.herokuapp.com/compute
